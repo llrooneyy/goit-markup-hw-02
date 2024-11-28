@@ -119,7 +119,7 @@ a{
     text-transform: capitalize;
 }
 
-.team-list{
+.team-list li{
     background-color: #FFFFFF;
 }
 
@@ -146,10 +146,6 @@ a{
     text-align: center;
     color: #2e2f42;
     text-transform: capitalize;
-}
-
-.port-img{
-    width: 360;
 }
 
 .port-main-title{
